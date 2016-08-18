@@ -1,6 +1,6 @@
 BUILD_DIR=build
-TITLE=Slides
-DESTINATION=casa@sweetohm.net:/home/web/slides/slides
+TITLE=Développeur à 50 ans
+DESTINATION=casa@sweetohm.org:/home/web/slides/developpeur-50-ans
 
 YELLOW=\033[1m\033[93m
 CYAN=\033[1m\033[96m

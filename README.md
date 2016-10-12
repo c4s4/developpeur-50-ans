@@ -44,13 +44,6 @@ Dans beaucoup d'entreprises, l'évolution normale pour un développeur c'est :
 - L 'architecture logicielle.
 
 ---
-Rester *simple* développeur est considéré comme :
-
-- anormal
-- infantile
-- un manque d'ambition
-
----
 Il est souvent compliqué de faire comprendte à sa hiérarchie que l'on souhaite rester développeur.
 
 Souvent on est incité, lorsqu'on prend de l'ancienneté, à *évoluer*.
@@ -58,7 +51,39 @@ Souvent on est incité, lorsqu'on prend de l'ancienneté, à *évoluer*.
 ***Darwin demandant à un dinosaure d'évoluer***
 
 ---
+Rester *simple* développeur est considéré comme :
 
+- anormal
+- infantile
+- un manque d'ambition
+
+Entendu : **Casa, tu vas pas rester toute ta vie simple développeur !**
+
+---
+À la base de ces idées reçues, de bonnes vieilles bases judéo-chrétiennes :
+
+- Un homme doit gagner sa vie à la sueur de son front. Si on prend plaisir à travailler, c'est suspect.
+- Qu'as tu fait de ton talent ? Si on ne monte pas dans la hiérarchie, on gâche son talent.
+
+---
+De plus, le chef est réputé :
+
+- Être plus riche
+- Plus intelligent
+- Plus beau
+
+Que le simple ouvrier du code...
+
+---
+Pour finir, beaucoup de jeunes diplômés veulent devenir chef de projet, mais on exige d'eux qu'ils soient développeurs quelques années (ou mois dans le meilleur des cas).
+
+On pourrait discuter de la nécessité de ce bizutage et plus généralement de la pertinence d'une formation technique pour occuper un poste de chefferie de projet, mais ceci est un autre débat...
+
+---
+Heureusement tout cela change :
+
+- Depuis que l'homme le plus riche a été développeur, le regard sur nous a changé.
+- 
 
 
 

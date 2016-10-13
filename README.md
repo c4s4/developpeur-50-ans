@@ -83,10 +83,19 @@ On pourrait discuter de la nécessité de ce bizutage et plus généralement de 
 Heureusement tout cela change :
 
 - Depuis que l'homme le plus riche a été développeur, le regard sur nous a changé.
+
+***Photo bill gates geek***
+
 - 
 
 
 
+Notes
+-----
+
+- Gig economy
+- Outils Github
+- Les devs sont des emmerdeurs
 
 
 

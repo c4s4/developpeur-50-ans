@@ -1,6 +1,6 @@
 BUILD_DIR=build
 TITLE=Développeur à 50 ans
-DESTINATION=casa@sweetohm.org:/home/web/slides/developpeur-50-ans
+DESTINATION=/home/web/slides/developpeur-50-ans
 
 YELLOW=\033[1m\033[93m
 CYAN=\033[1m\033[96m
@@ -28,5 +28,6 @@ help:
 	@echo "$(YELLOW)This makefile has following targets:$(CLEAR)"
 	@echo "$(CYAN)help$(CLEAR)    To print this help page"
 	@echo "$(CYAN)slides$(CLEAR)  To generate slides in $(BUILD_DIR) directory"
-	@echo "$(CYAN)clean$(CLEAR)   To clean generated files in $(BUILD_DIR) directory"
 	@echo "$(CYAN)publish$(CLEAR) To publish slides with rsync"
+	@echo "$(CYAN)clean$(CLEAR)   To clean generated files in $(BUILD_DIR) directory"
+

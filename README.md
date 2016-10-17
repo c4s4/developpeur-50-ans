@@ -20,31 +20,44 @@ Cette conférence présentera le parcours de Michel, hypothétique développeur 
 - Comment il a su rester compétitif.
 
 ---
-Je m'appelle Michel, je suis développeur et j'ai 50 ans.
+# Je m'appelle Michel, je suis développeur et j'ai 50 ans.
+
+![](img/casa.png)
 
 ---
-Lorsque j'étais plus jeune développeur, je me demandais ce que devenaient les développeurs passé 40 ans.
+## Lorsque j'étais plus jeune développeur, je me demandais ce que devenaient les développeurs passé 40 ans.
 
-Je n'en voyais quasiment aucun développeur âgé et me demandais s'il existais un cimetière des éléphants pour les développeurs.
+## Je n'en voyais quasiment aucun développeur âgé et me demandais s'il existait un cimetière des éléphants pour les développeurs.
 
-Je me demandais aussi si je pourrai moi même être encore développeur à 50 ans.
+## Par conséquent, je me demandais aussi si je pourrai moi même être encore développeur à 50 ans.
 
 ---
+# La bonne nouvelle est qu'il n'existe pas de cimetière des éléphants pour développeurs !
+
+![](img/cimetiere-developpeurs.png)
+
+---
+# Pourquoi voit-on de vieux développeurs ?
+
 La bonne nouvelle est qu'il n'y a pas de cimetière des développeurs où ils iraient mourir passé quarante ans :
 
-- J'ai vu beaucoup de développeurs devenir chef de projet. 
+- J'ai vu beaucoup de développeurs devenir chef de projet ou commercial. 
 - J'en ai vu aussi quitter le métier, pour devenir instituteur ou professeur souvent.
+- Il paraît qu'il existe des nids de vieux développeurs (qui pratiquent souvent le Cobol), mais je n'en ai jamais vu de mes propres yeux...
 
 ---
+
+
+
 Dans beaucoup d'entreprises, l'évolution normale pour un développeur c'est :
 
-- La cheferie de projet.
+- La chefferie de projet.
 - L'encadrement.
 - Le commercial.
-- L 'architecture logicielle.
+- L'architecture logicielle.
 
 ---
-Il est souvent compliqué de faire comprendte à sa hiérarchie que l'on souhaite rester développeur.
+Il est souvent compliqué de faire comprendre à sa hiérarchie que l'on souhaite rester développeur.
 
 Souvent on est incité, lorsqu'on prend de l'ancienneté, à *évoluer*.
 
@@ -96,9 +109,3 @@ Notes
 - Gig economy
 - Outils Github
 - Les devs sont des emmerdeurs
-
-
-
-
-
-

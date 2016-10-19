@@ -57,11 +57,6 @@ D'autre part, beaucoup de développeurs *évoluent* :
 - J'ai vu beaucoup de développeurs devenir chef de projet ou commercial. 
 - J'en ai vu aussi quitter le métier, pour devenir instituteur ou professeur souvent.
 
-![](img/evolution.png)
-
----
-# Les causes de l'érosion
-
 Beaucoup de jeunes diplômés en informatique voient le poste de développeur comme une simple étape (la plus courte possible) vers un poste à responsabilité.
 
 D'autres développeurs pensent que changer de poste est le seul moyen d'augmenter leur salaire.
@@ -85,16 +80,9 @@ Il peut être intéressant de passer par ces fonctions pour en comprendre les pr
 
 Si l'on souhaite rester dans le développement, il est préférable de ne pas rester *simple* développeur.
 
-En effet, avec l'expérience, on souhaite prendre plus de responsabilités et évoluer vers des postes de développement avec pouvoir de décision, comme Référant technique (ou tech lead) ou bien Expert.
+En effet, avec l'expérience, on souhaite prendre plus de responsabilités et avoir un réel pouvoir de décision, comme Référant technique (ou tech lead) ou bien Expert.
 
-Ces postes ne sont cependant accessibles qu'avec une certaine reconnaissance technique.
-
-Pour bien vieillir dans le développement il faudra donc développer cette reconnaissance technique.
-
----
-# Formation permanente
-
-Lorsqu'on est développeur, on comprend vite qu'il faut rester à la page car l'informatique évolue très vite.
+Ces postes ne sont cependant accessibles qu'avec une certaine reconnaissance technique. Il faut donc la développer et cela prend du temps et nécessite une formation permanente.
 
 Pour ce faire, certains recommandent les techniques suivantes :
 
@@ -104,7 +92,7 @@ Pour ce faire, certains recommandent les techniques suivantes :
 ---
 # Lire un livre chaque mois
 
-Beaucoup de développeurs, par manque de temps, et parce que la formation reste trop rare, se contentent de lire un tutoriel sur internet pour se former aux nouvelles techniques.
+Beaucoup, par manque de temps, et parce que la formation reste trop rare, se contentent de lire un tutoriel sur internet pour se former aux nouvelles techniques.
 
 Cela est souvent très insuffisant, et se pencher sérieusement sur certains sujets est très profitable.
 
@@ -113,7 +101,7 @@ Pour ma part, je suis abonné au service Safari Online, qui donne accès illimit
 ---
 # Apprendre un nouveau langage chaque année
 
-Trop de développeurs se contentent de connaître un seul langage de programmation. Cela me semble extrêmement dangereux. C'est un peu comme si votre plombier n'avait qu'une clef anglaise dans sa boîte à outils...
+Trop de développeurs se contentent d'un seul langage de programmation. Cela me semble extrêmement dangereux. C'est un peu comme si votre plombier n'avait qu'une clef anglaise dans sa boîte à outils...
 
 C'est ce qu'on appelle le marteau doré : l'outil magique qui fait tout.
 
@@ -123,10 +111,12 @@ Write once, run everywhere.
 
 C'est bien évidemment du bullshit marketing.
 
+On peut penser qu'en ne pratiquant qu'un seul langage on va devenir expert, mais on finit par plafonner. Sur le long terme, il faut se diversifier.
+
 ---
 # Ma trousse à outils
 
-Pour ma part, j'ai dans ma trousse :
+Pour ma part, j'ai dans ma trousse à outils :
 
 - Java (parce que tout le monde l'utilise)
 - Python (pour écrire vite des scripts)
@@ -136,16 +126,29 @@ Pour ma part, j'ai dans ma trousse :
 
 Bien sûr, chacun choisira ses propres outils, mais il est important d'en avoir pour chaque situation.
 
+D'autre part, je maintiens une base de connaissance (sous forme de fichiers Markdown servis par un Apache, dans un projet Git mis à jour par un cron). J'y consigne des trucs utiles et je vais y rechercher souvent des informations.
+
+---
+# L'Open Source
+
+Je maintiens de nombreux projets en Open Source (*38* projets sur Github). Cela me permet de mutualiser, avec l'accord de mes employeurs, les outils que je développe.
+
+Par exemple, j'ai développé chez Orange un outil de migration de base de données (que je présente dans un lightning talk ce midi). Je l'ai mis en Open Source et l'ai utilisé par la suite chez SQLI.
+
+Bien sûr, tout un chacun peut utiliser ces outils, mais ce n'est pas le but premier.
+
+D'autre part, avoir un compte Github actif est primordial pour un développeur moderne. De plus en plus de recruteurs utilisent des outils Github pour trouver leurs développeurs.
+
 ---
 # La communication
 
 Il est aussi très important de savoir communiquer :
 
-- Discuter technique à la machine à café, c'est souvent là que se prennent les décisions techniques ou que se forment des équipes.
+- Discuter technique à la machine à café, c'est souvent là que se prennent les décisions techniques et que se forment des équipes.
 - Animer un blog ou un site web. C'est une carte de visite qui a son importance.
-- Savoir faire des concessions, apprendre à organiser des échanges dans les deux sens. Il faut savoir céder sur des points peu importants pour mieux imposer les positions qui importantes.
-- Être à l'écoute des autres pour apprendre d'eux.
-- Comprendre les problèmes des autres. Ne pas parler technique à quelqu'un qui n'y comprend rien, parler argent quand nécessaire.
+- Savoir faire des concessions, apprendre à donner pour recevoir. Il faut savoir céder sur des points peu importants pour mieux imposer les positions qui nous tiennent à cœur.
+- Être à l'écoute des autres pour apprendre d'eux. Je fais souvent binôme avec un jeune développeur car ils m'apportent autant que je leur apprends.
+- Comprendre les problèmes des autres. Ne pas parler technique à quelqu'un qui n'y comprend rien, parler argent quand c'est nécessaire.
 
 Acquérir ces capacités peut prendre beaucoup de temps et est parfois plus difficile que la technique.
 
@@ -154,7 +157,7 @@ Acquérir ces capacités peut prendre beaucoup de temps et est parfois plus diff
 
 Il ne faut pas être naïf, notre salaire dépend essentiellement de notre capacité à nous vendre lors d'un entretien d'embauche. Obtenir une augmentation est souvent difficile (plus encore quand on prend de l'ancienneté) donc il faut obtenir un bon salaire dés l'embauche.
 
-Pour ce faire, il faut mettre investir dans son CV avec des activité qui ne sont pas forcément rémunératrices mais qui vont faire rêver une RH :
+Pour ce faire, il faut investir dans son CV avec des activité qui ne sont pas forcément rémunératrices mais qui vont faire rêver une RH :
 
 - Écrire des articles et/ou des livres.
 - Faire des conférences.
@@ -165,11 +168,17 @@ Ceci dit, ce n'est pas que du cosmétique car quelqu'un qui fait régulièrement
 ---
 # Planifier sa carrière
 
+Il faut parfois prendre le temps de réfléchir à sa carrière et prendre des décisions :
 
+- Faire des choix stratégiques (accepter un travail mal payé mais très prestigieux).
+- Savoir changer démissionner plutôt que d'attendre qu'une entreprise coule.
+- Se rendre compte quand on tourne en rond et savoir changer.
+- Envisager un travail en freelance quand les circonstances sont favorables.
+- Se préparer à la Gig Economy (développement du travail indépendant).
 
-Notes
------
+Nous avons la chance de travailler dans un secteur *en tension*, nous avons beaucoup d'opportunités, il ne faut pas les gâcher !
 
-- Gig economy
-- Outils Github
-- Les devs sont des emmerdeurs
+---
+# Merci pour votre attention
+
+**casa@sweetohm.net**

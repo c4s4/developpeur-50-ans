@@ -1,6 +1,7 @@
 BUILD_DIR=build
 TITLE=Développeur à 50 ans
 DESTINATION=/home/web/slides/developpeur-50-ans
+OPTIONS={ratio: '16:9'}
 
 YELLOW=\033[1m\033[93m
 CYAN=\033[1m\033[96m
@@ -18,6 +19,7 @@ slides:
 	cp res/template.html $(BUILD_DIR)/index.html
 	sed -i -e "s/<? TITLE ?>/$(TITLE)/g" $(BUILD_DIR)/index.html
 	sed -i -e "/<? CONTENT ?>/{r README.md" -e "d}" $(BUILD_DIR)/index.html
+	sed -i -e "s/<? OPTIONS ?>/$(OPTIONS)/g" $(BUILD_DIR)/index.html
 	cp -r res/ img/ $(BUILD_DIR)
 
 publish:

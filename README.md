@@ -177,6 +177,21 @@ Pour ce faire, il faut investir dans son CV avec des activité qui ne sont pas f
 Ceci dit, ce n'est pas que cosmétique car quelqu'un qui fait régulièrement des conférences pourra animer des ateliers ou faire des formations en entreprise. Celui qui aura écrit des articles sera probablement capable de rédiger de la documentation technique.
 
 ---
+# Quelques conseils
+
+### Garder son CV à jour et en ligne
+
+Il est laborieux de mettre à jour un CV qui n'a pas été pendant des années.
+
+### Faire son nid
+
+En entreprise, sa fiche de poste n'est pas gravée dans le marbre. En étant force de proposition, on peut pratiquer d'autres langages, faire de la formation, de la mise en place d'outils, etc...
+
+### Planter des graines
+
+Plus on connait de langages, d'outils, de pratiques de développement logiciel et plus on a de probabilités de trouver des opportunités. Il faut provoquer la chance.
+
+---
 # Planifier sa carrière
 
 Il faut parfois prendre le temps de réfléchir à sa carrière et prendre des décisions :
@@ -194,6 +209,6 @@ Nous avons la chance de travailler dans un secteur *en tension*, nous avons beau
 ---
 # Merci pour votre attention
 
-![](img/casa.png)
+# Des questions ?
 
 **casa@sweetohm.net**

@@ -174,6 +174,8 @@ Pour ce faire, il faut investir dans son CV avec des activité qui ne sont pas f
 - Faire des conférences.
 - Avoir une vie associative, participer à des événements.
 
+![](img/piece.png)
+
 Ceci dit, ce n'est pas que cosmétique car quelqu'un qui fait régulièrement des conférences pourra animer des ateliers ou faire des formations en entreprise. Celui qui aura écrit des articles sera probablement capable de rédiger de la documentation technique.
 
 ---

@@ -183,7 +183,7 @@ Ceci dit, ce n'est pas que cosmétique car quelqu'un qui fait régulièrement de
 
 ### Garder son CV à jour et en ligne
 
-Il est laborieux de mettre à jour un CV qui n'a pas été pendant des années.
+Il est laborieux de mettre à jour un CV qui ne l'a pas été pendant des années.
 
 ### Faire son nid
 

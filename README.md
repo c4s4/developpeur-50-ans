@@ -194,4 +194,6 @@ Nous avons la chance de travailler dans un secteur *en tension*, nous avons beau
 ---
 # Merci pour votre attention
 
+![](img/casa.png)
+
 **casa@sweetohm.net**

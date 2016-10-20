@@ -154,7 +154,6 @@ D'autre part, avoir un compte Github actif est primordial pour un développeur m
 Il est aussi très important de savoir communiquer :
 
 - Discuter technique à la machine à café, c'est souvent là que se prennent les décisions techniques et que se forment des équipes.
-- Animer un blog ou un site web. C'est une carte de visite qui a son importance.
 - Savoir faire des concessions, apprendre à donner pour recevoir. Il faut savoir céder sur des points peu importants pour mieux imposer les positions qui nous tiennent à cœur.
 - Être à l'écoute des autres pour apprendre d'eux. Je fais souvent binôme avec de jeunes développeurs car ils m'apportent autant que je leur apprends.
 - Comprendre les problèmes des autres. Ne pas parler technique à quelqu'un qui n'y comprend rien, parler argent quand c'est nécessaire.
@@ -169,23 +168,26 @@ Il ne faut pas être naïf, notre salaire dépend essentiellement de notre capac
 Pour ce faire, il faut investir dans son CV avec des activité qui ne sont pas forcément rémunératrices mais qui vont faire rêver une RH :
 
 - Écrire des articles et/ou des livres.
+- Animer un blog ou un site web.
 - Faire des conférences.
 - Avoir une vie associative, participer à des événements.
 
-Ceci dit, ce n'est pas que du cosmétique car quelqu'un qui fait régulièrement des conférences pourra animer des ateliers ou faire des formations en entreprise. Celui qui aura écrit des articles sera probablement capable de rédiger de la documentation technique.
+Ceci dit, ce n'est pas que cosmétique car quelqu'un qui fait régulièrement des conférences pourra animer des ateliers ou faire des formations en entreprise. Celui qui aura écrit des articles sera probablement capable de rédiger de la documentation technique.
 
 ---
 # Planifier sa carrière
 
 Il faut parfois prendre le temps de réfléchir à sa carrière et prendre des décisions :
 
-- Faire des choix stratégiques (accepter un travail mal payé mais très prestigieux).
-- Savoir changer démissionner plutôt que d'attendre qu'une entreprise coule.
+- Faire des choix stratégiques (accepter un travail mal payé mais très prestigieux par exemple).
+- Savoir démissionner plutôt que d'attendre qu'une entreprise coule.
 - Se rendre compte quand on tourne en rond et savoir changer.
 - Envisager un travail en freelance quand les circonstances sont favorables.
 - Se préparer à la Gig Economy (développement du travail indépendant).
 
 Nous avons la chance de travailler dans un secteur *en tension*, nous avons beaucoup d'opportunités, il ne faut pas les gâcher !
+
+![](img/boussole.png)
 
 ---
 # Merci pour votre attention

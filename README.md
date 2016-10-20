@@ -71,6 +71,8 @@ D'autres développeurs pensent que changer de poste est le seul moyen d'augmente
 
 La pression de la hiérarchie (*Tu ne vas pas rester développeur toute ta vie !*) peut être forte aussi.
 
+![Darwin](img/darwin.png)
+
 ---
 # Les alternatives au développement
 

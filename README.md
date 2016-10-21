@@ -211,6 +211,6 @@ Nous avons la chance de travailler dans un secteur *en tension*, nous avons beau
 ---
 # Merci pour votre attention
 
-# Des questions ?
+![Happy Developer](img/happy-developer.png)
 
-**casa@sweetohm.net**
+## Des questions ?

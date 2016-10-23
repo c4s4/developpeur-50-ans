@@ -1,7 +1,7 @@
 BUILD_DIR=build
 TITLE=Développeur à 50 ans
 DESTINATION=/home/web/slides/developpeur-50-ans
-OPTIONS={ratio: '16:9'}
+OPTIONS={ratio: '4:3'}
 
 YELLOW=\033[1m\033[93m
 CYAN=\033[1m\033[96m
